@@ -1,7 +1,5 @@
 # 🎵 Music Playlist Recommendation System
 
-**ITM Skills University - Case Study 148**
-
 A complete Python-based music recommendation system featuring mood-based and genre-based song recommendations, CSV data management, OOP design, lambda functions, decorators, and beautiful visualizations.
 
 ---
@@ -358,8 +356,7 @@ chmod +x music_recommender_main.py
 ## 👨‍💻 Author
 
 **Expert Python Developer**  
-Case Study: ITM Skills University - Case Study 148  
-Date: December 2024
+Name : Ragini Singh
 
 ---
 
