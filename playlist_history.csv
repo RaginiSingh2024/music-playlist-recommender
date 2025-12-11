@@ -1,0 +1,19 @@
+username,song_name,timestamp,genre,mood
+john_doe,Blinding Lights,2024-01-15 10:30:00,Pop,Happy
+john_doe,Shape of You,2024-01-15 10:35:00,Pop,Happy
+john_doe,Bohemian Rhapsody,2024-01-15 10:40:00,Rock,Energetic
+jane_smith,Someone Like You,2024-01-16 14:20:00,Pop,Sad
+jane_smith,Hello,2024-01-16 14:25:00,Pop,Sad
+jane_smith,November Rain,2024-01-16 14:30:00,Rock,Sad
+alex_brown,Lose Yourself,2024-01-17 09:15:00,Hip-Hop,Energetic
+alex_brown,Thunderstruck,2024-01-17 09:20:00,Rock,Energetic
+alex_brown,Believer,2024-01-17 09:25:00,Rock,Energetic
+sarah_jones,Perfect,2024-01-18 18:00:00,Pop,Romantic
+sarah_jones,Thinking Out Loud,2024-01-18 18:05:00,Pop,Romantic
+sarah_jones,Shallow,2024-01-18 18:10:00,Pop,Romantic
+mike_wilson,God's Plan,2024-01-19 12:00:00,Hip-Hop,Happy
+mike_wilson,Rockstar,2024-01-19 12:05:00,Hip-Hop,Happy
+mike_wilson,Levitating,2024-01-19 12:10:00,Pop,Happy
+emily_davis,Stairway to Heaven,2024-01-20 16:45:00,Rock,Calm
+emily_davis,Hotel California,2024-01-20 16:50:00,Rock,Calm
+emily_davis,Nothing Else Matters,2024-01-20 16:55:00,Rock,Calm
